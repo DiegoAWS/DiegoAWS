@@ -41,7 +41,7 @@
 * **Performance Optimization:** Lead Full Stack Developer for **ThinkJam**, achieving a **32% increase** in user satisfaction via performance optimization (React/NextJS).
 * **Modernization:** Migrated legacy backends to **NestJS/Kubernetes** microservices to significantly improve scalability and maintainability.
 
-**QWERTY** | *Cuba*
+**QWERTY** | *Havana*
 **Software Engineer** | *April 2015 – November 2019*
 
 * **Cost Reduction:** Engineered a custom Warehouse Control System saving the client **$450k+** in inventory mismanagement and asset loss.
